@@ -1,0 +1,9 @@
+# Mengabaikan folder session login WhatsApp (SANGAT PENTING!)
+.wwebjs_auth/
+.wwebjs_cache/
+node_modules/
+# Mengabaikan log error jika ada
+*.log
+npm-debug.log*
+target.js
+README.md
