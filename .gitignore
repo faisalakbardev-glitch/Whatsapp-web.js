@@ -6,4 +6,3 @@ node_modules/
 *.log
 npm-debug.log*
 target.js
-README.md
