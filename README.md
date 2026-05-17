@@ -2,7 +2,7 @@
 Membuat Bot pesan otomatis whatsaap
 
 # Clone Repo
-git clone git@github.com:faisalakbardev-glitch/Whatsapp-web.js.git
+git clone https://github.com/faisalakbardev-glitch/Whatsapp-web.js.git
 
 # Masuk ke foldernya
  cd wa-bot
