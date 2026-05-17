@@ -5,7 +5,7 @@ Membuat Bot pesan otomatis whatsaap
 git clone https://github.com/faisalakbardev-glitch/Whatsapp-web.js.git
 
 # Masuk ke foldernya
- cd wa-bot
+cd Whatsaap-web.js
 
 # Jika sudah, Inisialisasi projek Node.js di terminal vscode/terminal biasa
 npm init -y
