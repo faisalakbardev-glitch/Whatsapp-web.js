@@ -12,3 +12,6 @@ npm init -y
 
 # Install library whatsapp-web.js dan qrcode-terminal (buat scan QR nanti)
 npm install whatsapp-web.js qrcode-terminal
+
+#Run Bot Whatsapp
+node index.js
