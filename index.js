@@ -50,13 +50,17 @@ async function jalankanWaBlast() {
 
 Halo *${target.nama}*, 
 
-Ini adalah pesan otomatis dari Mas Isal. Mau minta tolong untuk melakukan update dan pemakaian aplikasi Kalkulator IP Address hari ini yaa. 🙏😊
+Ini adalah pesan otomatis dari Mas Isal. Mau minta tolong untuk melakukan update dan pemakaian aplikasi Kalkulator IP Address hari ini yaa. 🙏😊 
+Klik link bawah ini untuk menyetujui menjadi tester:
+👇👇👇
+https://play.google.com/apps/testing/com.faisal.ipcalc
 
-Jika aplikasi lu belum di-update, silakan klik link di bawah ini untuk mendapatkan versi terbaru:
+Jika aplikasi belum di-update, silakan klik link di bawah ini untuk mendapatkan versi terbaru:
 👇👇👇
 https://play.google.com/store/apps/details?id=com.faisal.ipcalc
 
 Terima kasih banyak atas bantuannya, sukses selalu! ✨`;
+//Console pesan di atas bisa di ganti menyesuaikan dengan kebutuhan
 
         try {
             // Kirim pesan ke WhatsApp
