@@ -46,20 +46,21 @@ async function jalankanWaBlast() {
         const target = daftarTarget[i];
 
         // Pesan dibuat dinamis biar ada nama masing-masing orang
-        const pesan = `*📢 PEMBERITAHUAN UPDATE APLIKASI*
+        const pesan = `*📢 PEMBERITAHUAN PEMAKAIAN APLIKASI*
 
-Halo *${target.nama}*, 
+Halo Selamat pagi *${target.nama}*, 
 
-Ini adalah pesan otomatis dari Mas Isal. Mau minta tolong untuk melakukan update dan pemakaian aplikasi Kalkulator IP Address hari ini yaa. 🙏😊 
-Klik link bawah ini untuk menyetujui menjadi tester:
-👇👇👇
-https://play.google.com/apps/testing/com.faisal.ipcalc
+Ini adalah pesan otomatis dari Mas Isal. Mau minta tolong untuk melakukan pemakaian aplikasi Kalkulator IP Address hari ini yaa. 🙏😊 
 
-Jika aplikasi belum di-update, silakan klik link di bawah ini untuk mendapatkan versi terbaru:
-👇👇👇
-https://play.google.com/store/apps/details?id=com.faisal.ipcalc
+Terima kasih banyak atas bantuannya, sukses selalu!`;
+// Klik link bawah ini untuk menyetujui menjadi tester:
+// 👇👇👇
+// https://play.google.com/apps/testing/com.faisal.ipcalc
 
-Terima kasih banyak atas bantuannya, sukses selalu! ✨`;
+// Jika aplikasi belum di-update, silakan klik link di bawah ini untuk mendapatkan versi terbaru:
+// 👇👇👇
+// https://play.google.com/store/apps/details?id=com.faisal.ipcalc
+
 //Console pesan di atas bisa di ganti menyesuaikan dengan kebutuhan
 
         try {
