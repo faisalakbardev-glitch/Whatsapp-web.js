@@ -48,7 +48,7 @@ async function jalankanWaBlast() {
         // Pesan dibuat dinamis biar ada nama masing-masing orang
         const pesan = `*📢 PEMBERITAHUAN PEMAKAIAN APLIKASI*
 
-Halo Selamat pagi *${target.nama}*, 
+Halo *${target.nama}*, 
 
 Ini adalah pesan otomatis dari Mas Isal. Mau minta tolong untuk melakukan pemakaian aplikasi Kalkulator IP Address hari ini yaa. 🙏😊 
 
